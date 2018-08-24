@@ -16,6 +16,7 @@ namespace WebApplication1.Controllers
         }
         //new commit
         //branch 1 changed
+        //branch 2 has been changed
         // GET api/values/5
         public string Get(int id)
         {
