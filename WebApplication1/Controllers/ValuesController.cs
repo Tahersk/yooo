@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
             return new string[] { "value1", "value2" };
         }
         //new commit
+        //branch 2 has been changed
         // GET api/values/5
         public string Get(int id)
         {
